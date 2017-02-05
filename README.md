@@ -1,12 +1,8 @@
 # Introdução ao Desenvolvimento Web {#introdu-o-ao-desenvolvimento-web}
 
-**Instituto Nacional de Telecomunicações – INATEL**
+**Introdução ao Desenvolvimento Web HTML5, CSS3, JavaScript e NodeJS**
 
-**Pós-graduação em Desenvolvimento de Aplicações para Dispositivos Móveis e Cloud Computing**
-
-**Introdução ao Desenvolvimento Web HTML5, CSS3, JavaScript e PHP – DM104**
-
-Versão 0.8.2
+Versão 0.9.0
 
 **Histórico de revisões**
 
@@ -66,3 +62,4 @@ Versão 0.8.2
 [Figura 20 - Exemplo de como vincular JavaScript ao documento HTML 34](export/introducao_a_javascript/vincular_javascript_ao_documento_html.md#300807028416024-_Toc421661412)
 
 [Figura 21 - Utilização da linguagem PHP 35](export/introducao_a_php/README.md#300807028416024-_Toc421661413)
+

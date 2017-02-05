@@ -39,6 +39,5 @@
 * [Introdução a NodeJS](introducao_a_php/README.md)
   * [Ambiente para desenvolvimento](introducao_a_php/ambiente_para_desenvolvimento.md)
   * [Além do Browser](introducao_a_php/alem_do_browser.md)
-  * [Primeiro Script em PHP](introducao_a_php/primeiro_script_em_php.md)
 * [Referências](referencias.md)
 

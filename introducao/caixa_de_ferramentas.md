@@ -6,7 +6,7 @@ Para um melhor aproveitamento do conteúdo da disciplina alguns serviços serão
 * Codepen – [http://codepen.io](http://codepen.io)
 * Trello – [https://trello.com](https://trello.com/esinatel/recommend/)
 * Slack – [https://slack.com/](https://slack.com/)
-  * A endereço do slack referente a disciplina será informado no primeiro dia de aula
+  * A endereço do slack referente a disciplina será informado no primeiro dia de aula.
 
 Para os exemplos desenvolvidos em laboratório serão necessárias as instalações das seguintes ferramentas:
 

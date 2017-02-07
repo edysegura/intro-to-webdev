@@ -6,7 +6,7 @@ Os requisitos para a elaboração do projeto final estão descritos a seguir:
 
 ### Controle de versão
 
-O projeto final deverá ser desenvolvido com o auxílio de um controlador de versão. Para esta atividade é recomendado o uso do serviço [Github](http://github.com) \([www.github.com](http://www.github.com)\).
+O projeto final deverá ser desenvolvido com o auxílio de um controlador de versão. Para esta atividade é recomendado o uso do serviço [GitHub](http://github.com).
 
 ### Nome de domínio
 

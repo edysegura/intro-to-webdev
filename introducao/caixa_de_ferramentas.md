@@ -15,6 +15,7 @@ Para os exemplos desenvolvidos em laboratório serão necessárias as instalaç�
 * Visual Studio Code - [https://code.visualstudio.com/](https://code.visualstudio.com/)
 * Google Chrome - [https://www.google.com/chrome/browser/desktop/index.html](https://www.google.com/chrome/browser/desktop/index.html)
 * Firefox Developer Edition - [https://www.mozilla.org/en-US/firefox/developer/](https://www.mozilla.org/en-US/firefox/developer/)
+* TortoiseGit - [https://tortoisegit.org/](https://tortoisegit.org/)
 
 
 

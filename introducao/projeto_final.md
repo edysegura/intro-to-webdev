@@ -22,9 +22,9 @@ O projeto deverá contemplar todas as operações envolvendo um banco de dados, 
 
 ### API
 
-O projeto também deverá fazer o uso de uma API ou biblioteca externa.
+O projeto também deverá fazer o uso de no mínimo uma API ou biblioteca externa tais como [Google Charts](https://developers.google.com/chart/), [PouchDB](https://pouchdb.com/), [Lovefield](https://google.github.io/lovefield/), entre outros.
 
 ### Relatório
 
-Deve ser contemplado algum tipo de relatório das informações processadas pela aplicação.
+Deve ser contemplado algum tipo de relatório das informações processadas pela aplicação tais como totais, médias, ponto máximo, ponto mínimo.
 

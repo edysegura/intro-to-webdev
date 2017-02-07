@@ -10,7 +10,7 @@ O projeto final deverá ser desenvolvido com o auxílio de um controlador de ver
 
 ### Nome de domínio
 
-Um domínio do tipo [_top level_](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains) deverá ser registrado e configurado para o acesso da aplicação. Através do endereço [www.dot.tk](http://www.dot.tk) é possível obter a criação de domínios gratuitos.
+Um domínio do tipo [_top level_](https://pt.wikipedia.org/wiki/Dom%C3%ADnio_de_topo) deverá ser registrado e configurado para o acesso da aplicação. Através do endereço[ ](http://www.freenom.com)[freenom.com](http://www.freenom.com) é possível obter a criação de domínios gratuitos.
 
 ### Servidor
 

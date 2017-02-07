@@ -14,7 +14,7 @@ Um domínio do tipo [_top level_](https://pt.wikipedia.org/wiki/Dom%C3%ADnio_de_
 
 ### Servidor
 
-O projeto deverá ser hospedado em um servidor externo, tais como [Cloud9](http://c9.io) \([www.c9.io](http://www.c9.io)\) ou [Hostinger](http://www.hostinger.com.br) \(www.hostinger.com.br\).
+O projeto deverá ser hospedado/implantado em um servidor externo, tais como [GitHub Pages](https://pages.github.com/), [Surge](https://surge.sh/), [Hostinger ](https://www.hostinger.com.br)entre outros.
 
 ### CRUD
 

@@ -4,7 +4,9 @@ HTML é uma linguagem para marcação de hipertexto e o seu objetivo é de estru
 
 O HTML é composto por elementos que comumente são chamados de _tags_ ou marcações. Segue a sua estrutura básica:
 
-&lt;tag attribute=”value”&gt;content&lt;/tag&gt;
+```html
+<tag attribute="value">content</tag>
+```
 
 Muitas _tags_ possuem conteúdo, desta forma o uso correto envolve uma _tag_ de abertura e uma _tag_ de fechamento com uma barra antes do seu nome.
 

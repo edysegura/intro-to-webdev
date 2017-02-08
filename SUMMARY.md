@@ -7,6 +7,7 @@
   * [Material de acompanhamento](introducao/material_de_acompanhamento.md)
   * [Caixa de ferramentas](introducao/caixa_de_ferramentas.md)
   * [Projeto final](introducao/projeto_final.md)
+  * [Inglês](introducao/ingles.md)
   * [Dúvidas](introducao/duvidas.md)
 * [Introdução a linguagem HTML](introducao_a_linguagem_html/README.md)
   * [Exemplos de uso da linguagem HTML](introducao_a_linguagem_html/exemplos_de_uso_da_linguagem_html.md)

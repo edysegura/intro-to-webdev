@@ -14,7 +14,10 @@ Algumas _tags_ podem receber atributos, que são parâmetros que usam a sintaxe 
 
 O exemplo abaixo exibe uma _tag_ com o valor semântico para um título de nível 1 e outra _tag_ para informar que o conteúdo marcado é um parágrafo.
 
-&lt;h1&gt;Isso é um Título&lt;/h1&gt;&lt;p&gt;Isso é um parágrafo.&lt;/p&gt;
+```html
+<h1>Isso é um Título</h1>
+<p>Isso é um parágrafo.</p>
+```
 
 Toda linguagem requer uma estrutura mínima para a sua utilização e para o HTML não é diferente. Na figura a seguir é apresentada a sua estrutura mínima.
 

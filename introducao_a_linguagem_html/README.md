@@ -37,7 +37,7 @@ Um documento HTML válido precisa obrigatoriamente seguir a estrutura composta p
 
 Dentro da _tag_ `<html>` é necessário declarar outras duas tags: `<head>` e `<body>`. Essas duas tags são "irmãs", pois estão no mesmo nível hierárquico em relação à sua _tag_ "pai", que é `<html>`.
 
-O conteúdo que se deseja tornar visível para os usuários deve estar marcado entre as _tags_ &lt;body&gt;&lt;/body&gt;, localizadas nas linhas 6 e 8. Sempre que utilizar uma _tag_ HTML é preciso considerar o seu valor semântico, ou seja, deve-se pensar no significado da _tag_ antes da sua utilização.
+O conteúdo que se deseja tornar visível para os usuários deve estar marcado entre as _tags_ `<body>``</body>`, localizadas nas linhas 6 e 8. Sempre que utilizar uma _tag_ HTML é preciso considerar o seu valor semântico, ou seja, deve-se pensar no significado da _tag_ antes da sua utilização.
 
 Existem mais de 90 elementos HTML cada qual com um propósito específico: títulos, parágrafos, listas ordenadas e não ordenadas, listas de definição, imagens, tabelas, links e formulários. Uma referência completa das [_tags_ HTML](https://developer.mozilla.org/en/docs/Web/HTML/Element) encontra-se no site da [_Mozilla Developer Network_](https://developer.mozilla.org/en-US/). No próximo tópico serão apresentadas as principias _tags_ HTML.
 

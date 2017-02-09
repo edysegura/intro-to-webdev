@@ -33,8 +33,6 @@ Toda linguagem requer uma estrutura mínima para a sua utilização e para o HTM
 </html>
 ```
 
-Figura 1 - Estrutura mínima de um arquivo HTML válido
-
 Um documento HTML válido precisa obrigatoriamente seguir a estrutura composta pelas tags `<html>`, `<head>`, `<body>` e a instrução `<!DOCTYPE>`, que define o tipo do documento e como ele será renderizado pelo navegador.
 
 Dentro da _tag_ &lt;html&gt; é necessário declarar outras duas tags: &lt;head&gt; e &lt;body&gt;. Essas duas tags são "irmãs", pois estão no mesmo nível hierárquico em relação à sua _tag_ "pai", que é &lt;html&gt;.

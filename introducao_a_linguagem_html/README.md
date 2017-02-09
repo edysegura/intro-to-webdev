@@ -22,15 +22,15 @@ O exemplo abaixo exibe uma _tag_ com o valor semântico para um título de níve
 Toda linguagem requer uma estrutura mínima para a sua utilização e para o HTML não é diferente. A seguir é apresentada a sua estrutura mínima.
 
 ```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Your title here</title>
-</head>
-<body>
-
-</body>
-</html>
+1 <!DOCTYPE html>
+2 <html>
+3 <head>
+4    <title>Your title here</title>
+5 </head>
+6 <body>
+7
+8 </body>
+9 </html>
 ```
 
 Um documento HTML válido precisa obrigatoriamente seguir a estrutura composta pelas tags `<html>`, `<head>`, `<body>` e a instrução `<!DOCTYPE>`, que define o tipo do documento e como ele será renderizado pelo navegador.

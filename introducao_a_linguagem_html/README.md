@@ -19,19 +19,20 @@ O exemplo abaixo exibe uma _tag_ com o valor semântico para um título de níve
 <p>Isso é um parágrafo.</p>
 ```
 
-Toda linguagem requer uma estrutura mínima para a sua utilização e para o HTML não é diferente. Na figura a seguir é apresentada a sua estrutura mínima.
+Toda linguagem requer uma estrutura mínima para a sua utilização e para o HTML não é diferente. A seguir é apresentada a sua estrutura mínima.
 
 ```html
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Your title here</title>
+    <title>Your title here</title>
 </head>
 <body>
 
 </body>
 </html>
 ```
+
 Figura 1 - Estrutura mínima de um arquivo HTML válido
 
 Um documento HTML válido precisa obrigatoriamente seguir a estrutura composta pelas tags `<html>`, `<head>`, `<body>` e a instrução `<!DOCTYPE>`, que define o tipo do documento e como ele será renderizado pelo navegador.

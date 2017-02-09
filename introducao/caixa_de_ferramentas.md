@@ -4,7 +4,7 @@ Para um melhor aproveitamento do conteúdo da disciplina alguns serviços serão
 
 * Github – [http://github.com](http://github.com)
 * Codepen – [http://codepen.io](http://codepen.io)
-* Trello – [https://trello.com](https://trello.com/esinatel/recommend/)
+* Trello – [https://trello.com](https://trello.com/edysegura/recommend/)
 * Slack – [https://slack.com/](https://slack.com/)
   * A endereço do slack referente a disciplina será informado no primeiro dia de aula.
 

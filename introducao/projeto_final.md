@@ -1,6 +1,6 @@
 ## Projeto final {#projeto-final}
 
-Ao final da disciplina será feita a avaliação de um projeto de tema livre que deverá ser desenvolvido em dupla ou individual. A recomendação é que se forme no máximo uma dupla.
+Ao final da disciplina será feita a avaliação de um projeto de tema livre que deverá ser desenvolvido em dupla ou individual. A recomendação é que se formem duplas.
 
 Os requisitos para a elaboração do projeto final estão descritos a seguir:
 

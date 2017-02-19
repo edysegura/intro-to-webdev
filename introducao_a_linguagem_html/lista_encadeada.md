@@ -2,10 +2,13 @@
 
 As listas podem ter sua estrutura composta por outras listas. Também é possível ter listas ordenadas aninhadas em um item de uma lista não ordenada e vice-versa, assim como no exemplo.
 
-Figura 6 - Exemplo de listas encadeadas com marcações HTML
+![](/assets/nested-lists.png)
 
 As listas são poderosos recursos que, adicionados CSS e JavaScript, podem se tornar menu de navegação ou outras estruturas complexas. Veja alguns exemplos:
 
-*   [http://css.maxdesign.com.au/listamatic/](http://css.maxdesign.com.au/listamatic/)
-*   [http://labs.edysegura.com/menu-profissional/](http://labs.edysegura.com/menu-profissional/)
-*   [http://learn.shayhowe.com/html-css/creating-lists/](http://learn.shayhowe.com/html-css/creating-lists/)
+* [http://css.maxdesign.com.au/listamatic/](http://css.maxdesign.com.au/listamatic/)
+* [http://labs.edysegura.com/menu-profissional/](http://labs.edysegura.com/menu-profissional/)
+* [http://learn.shayhowe.com/html-css/creating-lists/](http://learn.shayhowe.com/html-css/creating-lists/)
+
+
+

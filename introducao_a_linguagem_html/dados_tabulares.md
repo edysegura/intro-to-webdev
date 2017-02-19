@@ -2,9 +2,9 @@
 
 É muito comum a exibição de dados tabulares em uma aplicação web. A linguagem HTML provê um conjunto de _tags_ para este fim, assim como descrito no exemplo abaixo.
 
-Figura 9 - Exemplo de dados tabulares com marcações HTML
+![](/assets/table.png)
 
-**Obs.:** O atributo border=”1” foi usado apenas para demostrar as bordas na tabela. É recomendado que este atributo não seja utilizado, em substituição à ele entram as folhas de estilo em cascata – CSS.
+**Obs.:** O atributo `border=”1”` foi usado apenas para demostrar as bordas na tabela. É recomendado que este atributo não seja utilizado, em substituição à ele entram as folhas de estilo em cascata – CSS.
 
 A tag `<table></table>` é para especificar o início e o término da tabela.
 

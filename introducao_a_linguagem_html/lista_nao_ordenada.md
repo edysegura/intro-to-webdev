@@ -4,6 +4,7 @@
 
 O exemplo abaixo demonstra o uso deste tipo de lista em marcações HTML juntamente com subtítulos de nível 2.
 
-Figura 4 - Exemplo de uma lista não ordenada em marcações HTML
+![](/assets/unordered-list.png)
 
-O valor semântico da _tag_ &lt;ul&gt; é para uma lista não ordenada, do inglês “_Unordered List”_ e o valor semântico da _tag_ &lt;li&gt; é para um item da lista, do inglês “_List Item”_.
+O valor semântico da _tag_ `<ul>` é para uma lista não ordenada, do inglês “_Unordered List”_ e o valor semântico da _tag_ `<li>` é para um item da lista, do inglês “_List Item”_.
+

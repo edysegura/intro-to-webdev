@@ -2,7 +2,7 @@
 
 A linguagem HTML provê uma _tag_ para inclusão de imagem, assim como no exemplo a seguir.
 
-Figura 8 - Exemplo do uso de imagens com marcações HTML
+![](/assets/using-image.png)
 
 Para definir uma imagem é utilizada a tag `<img>` e, para indicar qual imagem carregar, é utilizado o atributo `src`.
 

@@ -16,9 +16,9 @@ A _tag_ `<td></td>` é para definir uma célula da tabela, do inglês “_Table 
 
 A seguir estão alguns links para um estudo aprofundado sobre marcações HTML para tabelas:
 
-* [http://www.htmldog.com/guides/html/advanced/tables/](http://www.htmldog.com/guides/html/advanced/tables/)
+* [https://css-tricks.com/complete-guide-table-element/](https://www.gitbook.com/book/edysegura/introducao-ao-desenvolvimento-web/edit#)
+
 * [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
-* [https://css-tricks.com/complete-guide-table-element/](https://css-tricks.com/complete-guide-table-element/)
 * [http://codepen.io/edysegura/full/JomdQB/](http://codepen.io/edysegura/full/JomdQB/)
 
 

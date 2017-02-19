@@ -7,7 +7,7 @@ As listas podem ter sua estrutura composta por outras listas. Também é possív
 As listas são poderosos recursos que, adicionados CSS e JavaScript, podem se tornar menu de navegação ou outras estruturas complexas. Veja alguns exemplos:
 
 * [http://learn.shayhowe.com/html-css/creating-lists/](http://learn.shayhowe.com/html-css/creating-lists/)
-* [http://edysegura.github.io/css-2themes-menu/](https://www.gitbook.com/book/edysegura/introducao-ao-desenvolvimento-web/edit#)
+* [http://edysegura.github.io/css-2themes-menu/](http://edysegura.github.io/css-2themes-menu/)
 
 
 

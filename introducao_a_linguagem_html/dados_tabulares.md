@@ -10,7 +10,7 @@ A tag `<table></table>` é para especificar o início e o término da tabela.
 
 A _tag_ `<tr></tr>` é para especificar uma linha da tabela, do inglês “_Table Row_”.
 
-A _tag_ `<th></th>` é para definir um cabeçalho para uma linha ou para uma coluna, do inglês “_Table Head_”.
+A _tag_ `<th></th>` é para definir um cabeçalho para uma linha ou para uma coluna, do inglês “_Table Header_”.
 
 A _tag_ `<td></td>` é para definir uma célula da tabela, do inglês “_Table Data_”.
 

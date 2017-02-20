@@ -16,8 +16,8 @@ Figura 12 - Exemplo de design utilizando tags HTML5
 
 Outras novidades:
 
-* Elemento &lt;canvas&gt;: permite desde desenhos geométricos simples até complexas imagens 2D.
-* O elemento &lt;video&gt; e &lt;audio&gt; para reprodução nativa de mídia.
+* Elemento `<canvas>`: permite desde desenhos geométricos simples até complexas imagens 2D.
+* O elemento `<video>` e `<audio>` para reprodução nativa de mídia.
 * HTML5 APIs
   * [https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   * [http://html5index.org/](http://html5index.org/)

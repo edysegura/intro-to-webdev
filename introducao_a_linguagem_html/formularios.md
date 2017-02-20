@@ -13,6 +13,7 @@ A seguir estão alguns links para um estudo aprofundado sobre marcações HTML p
 * [http://htmldog.com/guides/html/beginner/forms/](http://htmldog.com/guides/html/beginner/forms/)
 * [https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your\\_first\\_HTML\\_form](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your\_first\_HTML\_form)
 * [https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms)
+* https://www.wufoo.com/html5/
 
 
 

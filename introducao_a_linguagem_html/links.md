@@ -12,8 +12,9 @@ Ex. `<a href="http://edysegura.com">Edy Segura</a>`
 
 A seguir estão alguns links para um estudo aprofundado sobre marcações HTML para a criação de links:
 
+* [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a](https://www.gitbook.com/book/edysegura/introducao-ao-desenvolvimento-web/edit#)
+
 * [http://htmldog.com/guides/html/beginner/links/](http://htmldog.com/guides/html/beginner/links/)
-* [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
 
 

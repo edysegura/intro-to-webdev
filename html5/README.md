@@ -5,7 +5,7 @@ O surgimento do HTML5 agregou muitas vantagens no mundo de desenvolvimento web, 
 Algumas melhorias:
 
 * Reduz o uso de plug-ins externos, tais como o Flash.
-* Melhora a validação de formulários.
+* Facilita a validação de formulários.
 * Oferece mais marcações para substituir scripts.
 * É compatível com diferentes dispositivos.
 

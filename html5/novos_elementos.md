@@ -12,7 +12,7 @@ Abaixo segue uma lista de alguns dos novos elementos e atributos incluídos no H
 * `<aside>`: barra lateral referente ao conteúdo principal.
 * Outros.
 
-Figura 12 - Exemplo de design utilizando tags HTML5
+![](/assets/html5-layout.png)
 
 Outras novidades:
 

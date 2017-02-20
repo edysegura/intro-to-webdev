@@ -17,6 +17,9 @@ Formação Front-end
 HTML5 e CSS3: Domine a web do futuro  
 [http://www.casadocodigo.com.br/products/livro-html-css](http://www.casadocodigo.com.br/products/livro-html-css)
 
+HTML5 Periodic Table  
+https://madebymike.com.au/html5-periodic-table/
+
 JS: The Right Way  
 [http://jstherightway.org](http://jstherightway.org)
 

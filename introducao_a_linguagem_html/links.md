@@ -2,7 +2,7 @@
 
 A primeira forma possível de interação de um usuário com uma página web foram os links. Com eles é possível ter a habilidade de conectar um documento a outro, imagens, vídeos entre outros. No exemplo abaixo é possível visualizar como conectar um documento a outro através das marcações HTML.
 
-Figura 10 - Exemplo de links com marcações HTML
+![](/assets/links.png)
 
 Também é possível adicionar um link para um documento externo atribuindo o seu endereço absoluto ao atributo `href` da _tag_ `<a></a>`.
 

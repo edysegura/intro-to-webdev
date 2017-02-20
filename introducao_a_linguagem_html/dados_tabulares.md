@@ -18,6 +18,8 @@ A seguir estão alguns links para um estudo aprofundado sobre marcações HTML p
 
 * [https://css-tricks.com/complete-guide-table-element/](https://www.gitbook.com/book/edysegura/introducao-ao-desenvolvimento-web/edit#)
 
+* http://learn.shayhowe.com/html-css/organizing-data-with-tables/
+
 * [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
 
 

@@ -2,7 +2,7 @@
 
 Os formulários foram a segunda forma de interação na linguagem HTML. A seguir é possível visualizar um exemplo de um formulário para um _login_.
 
-![](/assets/form.png)
+![](/assets/html-form.png)
 
 Existem diversos tipos de controles de formulário disponíveis para uso, tais como _radio, checkbox, combobox, textarea,_ entre outros.
 
@@ -11,7 +11,7 @@ Invariavelmente pode haver um cenário onde seja difícil encontrar a _tag_ cert
 A seguir estão alguns links para um estudo aprofundado sobre marcações HTML para a criação de formulários:
 
 * [http://htmldog.com/guides/html/beginner/forms/](http://htmldog.com/guides/html/beginner/forms/)
-* https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your\_first\_HTML\_form
+* [https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your\\_first\\_HTML\\_form](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your\_first\_HTML\_form)
 * [https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms)
 
 

@@ -4,7 +4,7 @@ Entender o _CSS Box Model_ é fundamental para o trabalho de formatação do doc
 
 Os elementos _inline_ são aqueles distribuídos na mesma linha. Eles ocupam somente o espaço necessário para que seu próprio conteúdo seja exibido, permitindo assim que outros elementos em linha possam ser renderizados logo na sequência, tais como as _tags_ `<img />` e `<br />`.
 
-Os elementos de bloco são aqueles que ocupam toda a largura do documento, como as _tags_ &lt;p&gt;&lt;/p&gt; e &lt;h1&gt;&lt;/h1&gt;, distribuídas em linhas separadas.
+Os elementos de bloco são aqueles que ocupam toda a largura do documento, como as _tags_ `<p></p>` e `<h1></h1>`, distribuídas em linhas separadas.
 
 Figura 15 - Diferença de elementos “inline” e “block”
 

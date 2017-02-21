@@ -4,6 +4,7 @@ Existem várias formas de se aplicar regras CSS ao documento HTML. Porém, a rec
 
 Figura 14 - Exemplo de como aplicar regras CSS ao documento HTML
 
-Através da _tag_ &lt;link /&gt; é possível vincular um ou mais arquivos CSS ao documento HTML.
+Através da _tag_ `<link />` é possível vincular um ou mais arquivos CSS ao documento HTML.
 
 Esta forma de inclusão permite uma melhor organização do projeto. A folha de estilo externa traz ainda as vantagens de se manter o HTML mais limpo e do reaproveitamento de uma mesma folha de estilos para diversos documentos.
+

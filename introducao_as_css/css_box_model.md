@@ -24,7 +24,7 @@ Quando nenhum estilo é especificado para os elementos HTML o navegador utiliza 
 
 Para evitar este tipo de inconsistência é recomendado uso de um CSS _Reset_, o qual é um arquivo CSS que contém especificações com o objetivo de alinhar os navegadores em um mesmo patamar de estilo, o que permite ter um resultado muito mais sólido entre os navegadores.
 
-Figura 17 - Exemplo de CSS Reset
+![](/assets/css-reset.png)
 
 Uma alternativa ao uso desta técnica é o uso do normalize.css \([http://necolas.github.io/normalize.css/](http://necolas.github.io/normalize.css/)\) onde, ao invés de remover o estilo padrão dos navegadores, normaliza-os para que os elementos do HTML tenham uma consistência entre os diversos navegadores.
 

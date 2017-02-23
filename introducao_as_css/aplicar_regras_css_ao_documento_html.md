@@ -2,7 +2,7 @@
 
 Existem várias formas de se aplicar regras CSS ao documento HTML. Porém, a recomendação é aplicar as regras através de um arquivo externo, indicando no documento HTML uma ligação entre ele e a folha de estilo, assim como demonstrado na imagem abaixo.
 
-Figura 14 - Exemplo de como aplicar regras CSS ao documento HTML
+![](/assets/applying-css.png)
 
 Através da _tag_ `<link />` é possível vincular um ou mais arquivos CSS ao documento HTML.
 

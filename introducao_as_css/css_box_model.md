@@ -6,7 +6,7 @@ Os elementos _inline_ são aqueles distribuídos na mesma linha. Eles ocupam som
 
 Os elementos de bloco são aqueles que ocupam toda a largura do documento, como as _tags_ `<p></p>` e `<h1></h1>`, distribuídas em linhas separadas.
 
-Figura 15 - Diferença de elementos “inline” e “block”
+![](/assets/css-box-model.png)
 
 A primeiro momento não é perceptível, mas todos os elementos possuem, por padrão, margens e espaçamentos internos pré-definidos.
 

@@ -26,5 +26,5 @@ Para evitar este tipo de inconsistência é recomendado uso de um CSS _Reset_, o
 
 ![](/assets/css-reset.png)
 
-Uma alternativa ao uso desta técnica é o uso do normalize.css \([http://necolas.github.io/normalize.css/](http://necolas.github.io/normalize.css/)\) onde, ao invés de remover o estilo padrão dos navegadores, normaliza-os para que os elementos do HTML tenham uma consistência entre os diversos navegadores.
+Uma alternativa ao uso desta técnica é o uso do `normalize.css` \([http://necolas.github.io/normalize.css/](http://necolas.github.io/normalize.css/)\) onde, ao invés de remover o estilo padrão dos navegadores, normaliza-os para que os elementos do HTML tenham uma consistência entre os diversos navegadores.
 

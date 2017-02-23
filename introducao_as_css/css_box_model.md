@@ -10,7 +10,7 @@ Os elementos de bloco são aqueles que ocupam toda a largura do documento, como 
 
 A primeiro momento não é perceptível, mas todos os elementos possuem, por padrão, margens e espaçamentos internos pré-definidos.
 
-Figura 16 - Diagrama com a representação do CSS Box Model
+![](/assets/css-box-model-diagram.png)
 
 As propriedades das CSS que compõem o _box model_ são: _width_, _height_, _padding_, _border_ e _margin_.
 

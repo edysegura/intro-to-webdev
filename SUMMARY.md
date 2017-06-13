@@ -39,6 +39,5 @@
   * [Vincular JavaScript ao documento HTML](introducao_a_javascript/vincular_javascript_ao_documento_html.md)
 * [Introdução a NodeJS](introducao_a_php/README.md)
   * [Ambiente para desenvolvimento](introducao_a_php/ambiente_para_desenvolvimento.md)
-  * [Além do Browser](introducao_a_php/alem_do_browser.md)
 * [Referências](referencias.md)
 

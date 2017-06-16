@@ -11,7 +11,7 @@ Para um melhor aproveitamento do conteúdo da disciplina alguns serviços serão
 Para os exemplos desenvolvidos em laboratório serão necessárias as instalações das seguintes ferramentas:
 
 * Git - [http://git-scm.com/](http://git-scm.com/)
-* NodeJS - [https://nodejs.org/](https://nodejs.org/)
+* Node.js - [https://nodejs.org/](https://nodejs.org/)
 * Visual Studio Code - [https://code.visualstudio.com/](https://code.visualstudio.com/)
 * Google Chrome - [https://www.google.com/chrome/browser/desktop/index.html](https://www.google.com/chrome/browser/desktop/index.html)
 * Firefox Developer Edition - [https://www.mozilla.org/en-US/firefox/developer/](https://www.mozilla.org/en-US/firefox/developer/)

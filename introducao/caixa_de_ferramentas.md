@@ -13,6 +13,7 @@ Para os exemplos desenvolvidos em laboratório serão necessárias as instalaç�
 * Git - [http://git-scm.com/](http://git-scm.com/)
 * Node.js - [https://nodejs.org/](https://nodejs.org/)
 * Visual Studio Code - [https://code.visualstudio.com/](https://code.visualstudio.com/)
+* Postman - [https://www.getpostman.com/](https://www.getpostman.com/)
 * Google Chrome - [https://www.google.com/chrome/browser/desktop/index.html](https://www.google.com/chrome/browser/desktop/index.html)
 * Firefox Developer Edition - [https://www.mozilla.org/en-US/firefox/developer/](https://www.mozilla.org/en-US/firefox/developer/)
 * TortoiseGit - [https://tortoisegit.org/](https://tortoisegit.org/)

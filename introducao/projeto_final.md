@@ -10,11 +10,11 @@ O projeto final deverá ser desenvolvido com o auxílio de um controlador de ver
 
 ### Nome de domínio
 
-Um domínio do tipo [_top level_](https://pt.wikipedia.org/wiki/Dom%C3%ADnio_de_topo) deverá ser registrado e configurado para o acesso da aplicação. Através do endereço[ ](http://www.freenom.com)[freenom.com](http://www.freenom.com) é possível obter a criação de domínios gratuitos.
+Um domínio do tipo [_top level_](https://pt.wikipedia.org/wiki/Domínio_de_topo) deverá ser registrado e configurado para o acesso da aplicação. Através do endereço[ ](http://www.freenom.com)[freenom.com](http://www.freenom.com) é possível obter a criação de domínios gratuitos.
 
 ### Servidor
 
-O projeto deverá ser hospedado/implantado em um servidor externo, tais como [GitHub Pages](https://pages.github.com/), [Surge](https://surge.sh/), [Hostinger ](https://www.hostinger.com.br)entre outros.
+O projeto deverá ser hospedado/implantado em um servidor externo, tais como [GitHub Pages](https://pages.github.com/), [Surge](https://surge.sh/), [Now](https://zeit.co/now), [Hostinger ](https://www.hostinger.com.br)entre outros.
 
 ### CRUD
 

@@ -37,7 +37,7 @@
   * [Versão](introducao_a_javascript/versao.md)
   * [API DOM](introducao_a_javascript/api_dom.md)
   * [Vincular JavaScript ao documento HTML](introducao_a_javascript/vincular_javascript_ao_documento_html.md)
-* [Introdução a NodeJS](introducao_a_php/README.md)
+* [Introdução a Node.js](introducao_a_php/README.md)
   * [Ambiente para desenvolvimento](introducao_a_php/ambiente_para_desenvolvimento.md)
 * [Referências](referencias.md)
 
